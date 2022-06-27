@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769480800939",
+    "project_id": "fir-application-cad3e",
+    "storage_bucket": "fir-application-cad3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769480800939:android:4d62e67ef29a3c2dde15ee",
+        "android_client_info": {
+          "package_name": "com.agaba.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769480800939-5qdiedr870884fhedk9ks6qb3g15c14h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5-9P3SuKfqSkvBtgnCkbCJZOVNgqd4Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769480800939-5qdiedr870884fhedk9ks6qb3g15c14h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
